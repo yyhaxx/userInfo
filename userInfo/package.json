@@ -1,0 +1,29 @@
+{
+  "name": "userinfo",
+  "version": "1.0.0",
+  "description": "对用户进行简单的增删改差",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyhaxx/userInfo.git"
+  },
+  "keywords": [
+    "es6",
+    "node",
+    "webpack",
+    "element"
+  ],
+  "author": "yyhaxx@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyhaxx/userInfo/issues"
+  },
+  "homepage": "https://github.com/yyhaxx/userInfo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.0"
+  }
+}
